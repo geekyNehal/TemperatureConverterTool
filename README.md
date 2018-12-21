@@ -1,2 +1,2 @@
-# TemperatureConverterTool
+# Temperature Converter Tool 
 This is a simple Temperature Converter tool which converts celcius to Farhenheit and vice versa. Used JAVAFX for this.
